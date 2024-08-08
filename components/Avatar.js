@@ -1,5 +1,5 @@
 const Avatar = () => {
-  return <div>Avatar</div>;
+  return <div>binyul</div>;
 };
 
 export default Avatar;
